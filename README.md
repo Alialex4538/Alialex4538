@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alialex4538
+- 👀 I’m interested in web and game developing
+- 🌱 I’m currently learning javascript
